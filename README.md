@@ -1,1 +1,1 @@
-# techHubWebsite
+# tecHubWebsite
